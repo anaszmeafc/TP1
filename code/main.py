@@ -19,6 +19,3 @@ def convert(word):
     return emoji.emojize(word, use_aliases=True)
 
 
-if __name__ == "__main__":
-
-    print("super")
