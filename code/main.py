@@ -5,8 +5,7 @@ wordToEmoji = {
     'coeur': ':red_heart:',
     'sourire': ':smiley:',
 }
-
-
+# supp
 def translate(word):
     if word in wordToEmoji.keys():
         return wordToEmoji[word]
