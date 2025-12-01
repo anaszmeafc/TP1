@@ -1,0 +1,1 @@
+J'ai supprimé les lignes inutiles.
