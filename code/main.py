@@ -10,8 +10,6 @@ wordToEmoji = {
 def translate(word):
     if word in wordToEmoji.keys():
         return wordToEmoji[word]
-    else:
-        return word
 
 
 def convert(word):
