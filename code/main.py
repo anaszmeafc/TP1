@@ -6,13 +6,14 @@ wordToEmoji = {
     'sourire': ':smiley:',
 }
 
-
+#fonction translate mise en commentaire
+"""
 def translate(word):
     if word in wordToEmoji.keys():
         return wordToEmoji[word]
     else:
         return word
-
+"""
 
 def convert(word):
     # emoji.emojize convertit le code smiley en smileys
