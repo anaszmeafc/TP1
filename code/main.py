@@ -18,8 +18,6 @@ def convert(word):
     # emoji.emojize convertit le code smiley en smileys
     return emoji.emojize(word, use_aliases=True)
     
-#effacer
-
 if __name__ == "__main__":
 
     print("super")
